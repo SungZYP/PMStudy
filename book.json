@@ -1,3 +1,13 @@
 {
-"plugins":["expandable-chapters"]
+    "plugins": [
+        "chapter-fold",
+        "expandable-chapters",
+        "github",
+        "splitter"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/SungZYP/PMStudy"
+        }
+    }
 }
